@@ -1,0 +1,3 @@
+CLAVE; DESCRIPCIÓN
+1; si el crédito pertenece a la Cartera Crediticia de Microcrédito Individual.
+0; en cualquier otro caso.

@@ -1,0 +1,4 @@
+CLAVE;DESCRIPCIÓN
+1;Moneda nacional 
+2;Udis  
+3;Dólares

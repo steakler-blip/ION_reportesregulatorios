@@ -1,0 +1,6 @@
+Codigo|Nombre
+1|Fitch
+2|Moodys
+3|S&P
+4|HR RATINGS
+5|Verum

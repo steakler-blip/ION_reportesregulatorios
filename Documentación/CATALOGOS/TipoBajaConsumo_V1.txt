@@ -1,0 +1,8 @@
+CLAVE;DESCRIPCIÓN
+10;Quitas, Condonaciones, Bonificaciones, Descuentos y Cancelación de cartera contra reserva (SIN PAGO).- Cuando la Entidad haya cancelado el crédito por contar con la evidencia de la imposibilidad de recuperar el mismo. 
+15;Quitas, Condonaciones, Bonificaciones y Descuentos (CON PAGO PARCIAL).- Cuando la Entidad haya llegado a un acuerdo con el acreditado para el pago del crédito y/o lo haya cancelado. En el proceso de cancelación del crédito, el acreditado realizo algún pago en efectivo.   
+20;Bursatilización.- Cuando la Entidad transfiere los créditos a instituciones o fondos bursatilizadoras, con la finalidad de que éste último emita valores para ser colocados entre el gran público inversionista o cualquier tipo de deuda, los cuales representan el derecho a los rendimientos o al producto de la enajenación de los créditos transferidos.       
+40;Adjudicación.- Cuando el bien mueble otorgado como garantía se reciba para pago del adeudo del crédito otorgado por la Entidad, ya sea por resolución judicial o por consentimiento del deudor. Este tipo de baja sólo aplica para los créditos ABCD, Auto, Otros.    
+50;Venta o Cesión de Cartera.- Cuando la Entidad otorga la posesión de la cartera a un cesionario, y éste asume el riesgo de la cartera.   
+60;Pago del Acreditado.- Cuando el crédito haya sido liquidado por el acreditado, ya sea por vencimiento normal o por pago anticipado del mismo.   
+70;Dación en pago.- Cuando el bien haya sido transmitido mediante dación en pago a la institución con consentimiento del acreditado.

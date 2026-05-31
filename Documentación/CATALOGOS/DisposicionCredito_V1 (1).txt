@@ -1,0 +1,5 @@
+CLAVE;DESCRIPCIÓN;ANEXO
+101;No Revolvente en una sola disposición;ATodos
+102;No Revolvente en múltiples disposiciones;ATodos
+103;Revolvente;ATodos
+104;Sindicado;A18,A21,A22,

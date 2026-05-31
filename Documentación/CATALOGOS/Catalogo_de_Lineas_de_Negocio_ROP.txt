@@ -1,0 +1,8 @@
+2814;100;Finanzas corporativas
+2814;200;Negociación y ventas
+2814;300;Banca minorista
+2814;400;Banca comercial
+2814;500;Pago y liquidación
+2814;600;Servicios de agencia
+2814;700;Administración de activos
+2814;800;Intermediacion minorista

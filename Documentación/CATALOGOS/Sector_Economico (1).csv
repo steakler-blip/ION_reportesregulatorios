@@ -1,0 +1,23 @@
+﻿cve_sector_economico,Des_Sector_Economico
+1,Agricultura  Silvicultura  Ganadería y Pesca
+3,Comercio
+4,Comunicaciones y Telecomunicaciones
+5,Construcción
+6,Educativo
+7,Hoteles y Restaurantes
+8,Alimentos  Bebidas y Tabaco
+9,Industria Automotriz
+10,Petróleo  Minería  Gas y Energía
+11,Resto Industria
+12,Salud
+13,Servicios Comunales y Sociales
+14,Servicios Financieros (No Bancarios)
+15,Servicios Profesionales y Técnicos
+16,Transporte
+18,Gobierno Federal
+19,Organismos Internacionales
+20,Industria Textil y de Calzado
+21,Industria Química y Farmacéutica
+22,Industria Materiales de Construcción
+23,Servicios de Esparcimiento y otros Servicios Recreativo
+99,Total (Sumatoria)

@@ -1,0 +1,4 @@
+TipoMovimiento;Descripción;
+PAGO;Pagos del cliente 
+MONEXI;Monto Exigible;
+

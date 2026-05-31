@@ -1,0 +1,3 @@
+CODIGO;DESCRIPCIÓN
+1;Vigente
+2;Vencido

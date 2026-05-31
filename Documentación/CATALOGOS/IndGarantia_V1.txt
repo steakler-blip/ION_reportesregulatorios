@@ -1,0 +1,4 @@
+CLAVE; DESCRIPCIÓN
+1; en caso de que el crédito no cuente con garantías 
+2; si el crédito cuenta con garantías pero la institución opta por no reconocerlas  
+3; si el crédito cuenta con garantías y la institución opta por reconocerlas.

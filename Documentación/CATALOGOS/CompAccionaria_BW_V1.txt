@@ -1,0 +1,5 @@
+﻿CODIGO;DESCRIPCIÓN
+1;Un solo grupo o persona tiene más del 33% de la tenencia accionaria
+2;Un solo grupo o persona tiene entre el 10% y el 33% de la tenencia accionaria
+3;Un solo grupo o persona tiene menos del 10% de la tenencia accionaria
+4;Sin información

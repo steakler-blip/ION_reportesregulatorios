@@ -1,0 +1,3 @@
+CLAVE;DESCRIPCIÓN
+1;Soberano
+2;Otros Emisores

@@ -1,0 +1,6 @@
+﻿Codigo;Descripcion
+1;Más de 10 años promedio de experiencia
+
+2;Entre 5 y 10 años promedio de experiencia
+3;Menos de 5 años promedio de experiencia
+4;Sin información

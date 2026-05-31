@@ -1,0 +1,15 @@
+CLAVE;DESCRIPCIÓN
+50;En el caso de créditos originales (que no provienen de una reestructura)
+100;En el caso de créditos ABCD que ya fueron objeto de una reestructura y continúan siendo ABCD
+200;En el caso de créditos de Auto que ya fueron objeto de una reestructura y continúan siendo de Auto.
+300;En el caso de créditos de Nómina que ya fueron objeto de una reestructura y continúan siendo de Nómina.
+400;En el caso de microcréditos que ya fueron objeto de una reestructura y continúan siendo microcréditos.
+450;En el caso de otros créditos que ya fueron objeto de una reestructura y continúan siendo  "otros".
+500;En el caso de créditos Personales que fueron objeto de una reestructura y continúan siendo Personales;  
+510;En el caso de créditos ABCD que fueron objeto de una reestructura y pasaron a ser créditos Personales; 
+520;En el caso de créditos de Auto que fueron objeto de una reestructura y pasaron a ser créditos Personales; 
+530;En el caso de créditos de nómina que fueron objeto de una reestructura y pasaron a ser créditos Personales; 
+540;En el caso de créditos Grupales que fueron objeto de una reestructura y pasaron a ser créditos Personales;  
+560;En el caso de créditos de Tarjetas de Crédito que fueron objeto de una reestructura y pasaron a ser créditos Personales,
+580;En el caso de créditos Otros que fueron objeto de una reestructura y pasaron a ser Personales. 
+590;En el caso de que la reestructura se componga de varios créditos de consumo distintos (Personales, ABCD, Auto, Nómina, Microcréditos, Tarjetas de Crédito y Otros) combinados.

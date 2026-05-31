@@ -1,0 +1,5 @@
+CODIGO;NOMBRE
+0;No Aplica
+1;Cierre de operaciones
+2;Término del contrato mercantil con el comisionista
+3;Cambio de localidad

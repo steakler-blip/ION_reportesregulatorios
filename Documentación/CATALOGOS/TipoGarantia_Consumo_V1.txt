@@ -1,0 +1,18 @@
+CLAVE;DESCRIPCIÓN
+40;Dinero en efectivo o valores;
+41;Depósitos, valores y créditos a cargo del Banco de México;
+42;Valores emitidos o avalados por el Gobierno Federal; 
+43;Valores, títulos y documentos, a cargo del IPAB, así como las obligaciones garantizadas por este Instituto;
+44;Instrumentos de deuda emitidos por Estados soberanos o por sus bancos centrales;
+45;Instrumentos de deuda emitidos por Instituciones, casas de bolsa y otras entidades;
+46;Instrumentos de deuda de corto plazo;
+47;Instrumentos de deuda emitidos por Instituciones que carezcan de una calificación crediticia emitida por una Institución Calificadora reconocida;
+48;Títulos accionarios que formen parte del Índice de Precios y Cotizaciones de la Bolsa Mexicana de Valores o de Índices principales de otras bolsas, así como las obligaciones subordinadas convertibles en tales títulos;
+49;Valores y créditos garantizados con los instrumentos relativos a las operaciones;
+50;Inversiones en sociedades de inversión que coticen diariamente;
+51;Títulos accionarios y obligaciones subordinadas convertibles en tales títulos que se coticen en la Bolsa Mexicana de Valores o en otras Bolsas reconocidas;
+52;Inversiones en sociedades de inversión cuyos activos objeto de inversión se incluyan en los instrumentos señalados en el numeral 12 anterior;
+54;Bienes muebles u otras.;
+59;Garantía de Primeras Perdídas
+60;Garantía de Paso y Medida
+61;Garantía de Fondo al 0.5%

@@ -1,0 +1,4 @@
+CLAVE;DESCRIPCIÓN;ANEXO
+1;Prelación de Pago Preferente;
+2;Prelación de Pago Subordinado;
+181;Carta de Crédito;

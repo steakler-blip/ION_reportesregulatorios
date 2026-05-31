@@ -1,0 +1,28 @@
+﻿CODIGO;DESCRIPCION R2611/R2613;APLICA_R2611;APLICA_R2613
+A0001;Alta recepción pago de servicios/Recepción de Pagos de Servicios;Si;Si
+A0002;Alta retiro de efectivo/Retiros de Efectivo;Si;Si
+A0003;Alta recepción de depósitos/Recepción de Depósitos;Si;Si
+A0004;Alta recepción de pago de créditos/Recepción de Pago de Créditos;Si;Si
+A0005;Alta situaciones de fondos/Situación de Fondos;Si;Si
+A0006;Alta Circulación de Medios de Pago/Circulación de medios de pago;Si;Si
+A0007;Alta pago de cheques/Pago de Cheques;Si;Si
+A0012;Alta compra de dólares/Compra de Dólares;Si;Si
+A0013;Alta venta de dólares/Venta de Dólares;Si;Si
+A0015;Alta de Cuentas Transaccionales de Bajo Riesgo Nivel 1 (Tarjeta Prepago)/Número de Cuentas Aperturadas Nivel de Riesgo 1;Si;Si
+A0016;Alta de Cuentas Transaccionales de Bajo Riesgo Nivel 2/Número de Cuentas Aperturadas Nivel de Riesgo 2;Si;Si
+A0017;Alta de Cuentas Transaccionales de Bajo Riesgo Nivel 3/Número de Cuentas Aperturadas Nivel de Riesgo 3;Si;Si
+A0018;Alta recepción pago de contribuciones/Recepción de Pago de Contribuciones;Si;Si
+A0019;NA/Recepción de Pago de Depósitos Documentados;No;Si
+B0001;Baja recepción pago de servicios;Si;No
+B0002;Baja retiro de efectivo;Si;No
+B0003;Baja recepción de depósitos;Si;No
+B0004;Baja recepción de pago de créditos;Si;No
+B0005;Baja situaciones de fondos;Si;No
+B0006;Baja Circulación de Medios de Pago;Si;No
+B0007;Baja pago de cheques;Si;No
+B0012;Baja compra de dólares;Si;No
+B0013;Baja venta de dólares;Si;No
+B0015;Baja de Cuentas Transaccionales de Bajo Riesgo Nivel 1 (Tarjeta Prepago);Si;No
+B0016;Baja de Cuentas Transaccionales de Bajo Riesgo Nivel 2;Si;No
+B0017;Baja de Cuentas Transaccionales de Bajo Riesgo Nivel 3;Si;No
+B0018;Baja recepción pago de contribuciones;Si;No

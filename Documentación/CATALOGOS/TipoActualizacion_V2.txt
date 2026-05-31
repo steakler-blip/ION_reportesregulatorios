@@ -1,0 +1,6 @@
+Clave; Descripción
+0; No Aplica
+1; Mediante el salario mínimo general (SMG)
+2; Mediante el Índice Nacional de Precios  al Consumidor (INPC) mensual 
+3; Mediante el Índice Nacional de Precios  al Consumidor (INPC) mensual 
+4; Re-avalúo

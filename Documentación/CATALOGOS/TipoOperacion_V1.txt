@@ -1,0 +1,45 @@
+Clave;Descripcion;Anexo
+181;Carta de Crédito;ATodos
+210;Bienes en fideicomiso o mandato;ATodos
+220;Bienes en custodia o administración;ATodos
+312;Operaciones de arrendamiento capitalizable;A18
+313;Operaciones de factoraje financiero con recurso, descuento o cesión de derechos de crédito;A18
+314;Operaciones de factoraje financiero sin recurso, descuento o cesión de derechos de crédito;A18
+315;Créditos a estados y municipios o con su garantía - Otros;A18
+320;Líneas de crédito no ejercidas;A18,A19
+330;Otros compromisos crediticios;A18,A19
+411;Créditos interbancarios -  Operaciones de arrendamiento capitalizable;A20
+413;Créditos interbancarios -  Otros;A20
+421;Créditos a entidades financieras no bancarias - Operaciones de arrendamiento capitalizable;A20
+422;Créditos a entidades financieras no bancarias - Otros;A20
+423;Factoraje Financiero con recurso;A20
+424;Factoraje Financiero sin recurso;A20
+460;Operaciones quirografarias - Créditos en cuenta corriente;A21,A22
+465;Operaciones quirografarias - Otros;A21,A22
+470;Operaciones prendarias - Operaciones de habilitación o vacío;A21,A22
+471;Operaciones prendarias - Operaciones refaccionarias ;A21,A22
+472;Operaciones prendarias - Otros;A21,A22
+480;Créditos puente - Otros créditos puente;A21,A22
+481;Créditos puente - Créditos puente a la vivienda;A21,A22
+482;Operaciones de factoraje financiero con recurso, descuento o cesión de derechos del crédito;A21,A22
+483;Operaciones de factoraje financiero sin recurso, descuento o cesión de derechos del crédito;A21,A22
+484;Operaciones de arrendamiento capitalizable;A21,A22
+485;Operaciones con garantía hipotecaria ;A21,A22
+486;Otros;A21,A22
+610;Créditos al Gobierno Federal o con su garantía;A21OD,A22OD
+621;Créditos a empresas productivas del estado - Operaciones de factoraje financiero con recurso, descuento o cesión de derechos de crédito;A21OD,A22OD
+622;Créditos a empresas productivas del estado - Operaciones de factoraje financiero sin recurso, descuento o cesión de derechos de crédito;A21OD,A22OD
+623;Créditos a empresas productivas del estado - Operaciones de arrendamiento capitalizable;A21OD,A22OD
+624;Créditos a empresas productivas del estado - Otros;A21OD,A22OD
+631;Cred org descentralizados o desconcentrados sin gtía del Gob Fed, Edos o Mpios - Op de fact fin sin recurso, descuento o cesión de derechos de crédito;A21OD,A22OD
+632;Cred org descentralizados o desconcentrados sin gtía del Gob Fed, Edos o Mpios - Op de fact fin con recurso, descuento o cesión de derechos de crédito;A21OD,A22OD
+633;Créditos a org descentralizados o desconcentrados sin gtía del Gob Fed, Edos o Mpios - Operaciones de arrendamiento capitalizable;A21OD,A22OD
+634;Créditos a organismos descentralizados o desconcentrados sin garantía del Gobierno Federal, Estados o Municipios - Otros;A21OD,A22OD
+710;Proyectos de inversión con fuente de pago propia;A19
+
+
+
+
+
+
+

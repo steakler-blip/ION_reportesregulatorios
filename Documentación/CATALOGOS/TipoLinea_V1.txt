@@ -1,0 +1,4 @@
+CLAVE;DISPOSICIÓN;ANEXO
+1;Línea de Crédito Revocable;Atodos
+2;Línea de Crédito Irrevocable;Atodos
+181;Carta de Crédito;Atodos

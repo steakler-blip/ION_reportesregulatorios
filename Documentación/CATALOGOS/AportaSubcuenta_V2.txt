@@ -1,0 +1,4 @@
+Clave; Descripción
+1;Si
+2;No
+

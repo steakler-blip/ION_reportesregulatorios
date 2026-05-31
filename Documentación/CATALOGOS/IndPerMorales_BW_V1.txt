@@ -1,0 +1,3 @@
+CLAVE;DESCRIPCIÓN
+0;Si es persona Fisica con Actividad Empresarial
+1;Si es persona Moral o Fideicomiso

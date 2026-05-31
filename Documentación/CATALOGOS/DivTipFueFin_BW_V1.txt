@@ -1,0 +1,7 @@
+﻿Codigo;Descripcion
+1;Si la fuente de financiamiento es solo alguna de las siguientes: bursátil, mayoreo y menudeo
+2;Si cuenta con dos fuentes de financiamiento de entre las siguientes: bursátil, mayoreo y menudeo
+3;Si cuenta con las tres fuentes de financiamiento siguientes: bursátil, mayoreo y menudeo
+4;Sin información
+
+

@@ -1,0 +1,3 @@
+CLAVE; DESCRIPCIÓN
+1; Si se cuenta con un esquema de cobranza delegada
+0; En cualquier otro caso.

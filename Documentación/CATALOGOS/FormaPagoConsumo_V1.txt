@@ -1,0 +1,5 @@
+CLAVE;DESCRIPCIÓN
+10;Cuando se tenga pactado el pago mediante "Domiciliación en una cuenta de depósito bancario"; 
+20;Cuando se tenga pactado el pago periódico mediante "Cargos Recurrentes en una tarjeta de crédito"; 
+30;Cuando se tenga pactado un "Convenio" con la empresa donde trabaje el acreditado,  
+80;Cuando no se tenga previsto algún mecanismo de pago automático

@@ -1,0 +1,5 @@
+CODIGO;NOMBRE
+0;No Aplica
+1;Cierre de operaciones
+2;Incumplimiento del contrato de comisión mercantil
+3;Vencimiento del contrato de comisión mercantil

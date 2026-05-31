@@ -1,0 +1,95 @@
+Codigo|Nombre|Calificacion
+1|Fitch|AAA
+1|Fitch|AA+
+1|Fitch|AA
+1|Fitch|AA-
+1|Fitch|A+
+1|Fitch|A
+1|Fitch|A-
+1|Fitch|BBB+
+1|Fitch|BBB
+1|Fitch|BBB-
+1|Fitch|BB+
+1|Fitch|BB
+1|Fitch|BB-
+1|Fitch|B+
+1|Fitch|B
+1|Fitch|B-
+1|Fitch|CCC
+1|Fitch|CC
+1|Fitch|C
+2|Moodys|Aaa
+2|Moodys|Aa1
+2|Moodys|Aa2
+2|Moodys|Aa3
+2|Moodys|A1
+2|Moodys|A2
+2|Moodys|A3
+2|Moodys|Baa1
+2|Moodys|Baa2
+2|Moodys|Baa3
+2|Moodys|Ba1
+2|Moodys|Ba2
+2|Moodys|Ba3
+2|Moodys|B1
+2|Moodys|B2
+2|Moodys|B3
+2|Moodys|Caa
+2|Moodys|Ca
+2|Moodys|C
+3|S&P|AAA
+3|S&P|AA+
+3|S&P|AA
+3|S&P|AA-
+3|S&P|A+
+3|S&P|A
+3|S&P|A-
+3|S&P|BBB+
+3|S&P|BBB
+3|S&P|BBB-
+3|S&P|BB+
+3|S&P|BB
+3|S&P|BB-
+3|S&P|B+
+3|S&P|B
+3|S&P|B-
+3|S&P|CCC
+3|S&P|CC
+3|S&P|C
+4|HR RATINGS|AAA
+4|HR RATINGS|AA+
+4|HR RATINGS|AA
+4|HR RATINGS|AA-
+4|HR RATINGS|A+
+4|HR RATINGS|A
+4|HR RATINGS|A-
+4|HR RATINGS|BBB+
+4|HR RATINGS|BBB
+4|HR RATINGS|BBB-
+4|HR RATINGS|BB+
+4|HR RATINGS|BB
+4|HR RATINGS|BB-
+4|HR RATINGS|B+
+4|HR RATINGS|B
+4|HR RATINGS|B-
+4|HR RATINGS|C+
+4|HR RATINGS|C
+4|HR RATINGS|C-
+5|Verum|AAA
+5|Verum|AA+
+5|Verum|AA
+5|Verum|AA-
+5|Verum|A+
+5|Verum|A
+5|Verum|A-
+5|Verum|BBB+
+5|Verum|BBB
+5|Verum|BBB-
+5|Verum|BB+
+5|Verum|BB
+5|Verum|BB-
+5|Verum|B+
+5|Verum|B
+5|Verum|B-
+5|Verum|C
+5|Verum|D

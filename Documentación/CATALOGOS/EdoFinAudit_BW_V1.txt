@@ -1,0 +1,5 @@
+CLAVE;DESCRIPCIÓN
+1; Estados financieros auditados durante más de 2 años consecutivos.
+2; Estados financieros auditados durante el último año 
+3; Estados financieros no auditados en los últimos 2 años.
+4; Sin Informacion.

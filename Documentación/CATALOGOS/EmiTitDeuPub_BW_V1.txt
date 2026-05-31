@@ -1,0 +1,6 @@
+﻿Codigo;Descripcion
+1;Sin emisiones
+2;Reconocido en su contabilidad como pasivo financiero
+3;Transacciones estructuradas fuera de balance
+
+
